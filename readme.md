@@ -5,4 +5,6 @@
 `Date: 25 December 2024, Wednesday`: Today I practiced the home row touch typing and implemented email address validation logic in the UI app. I went to a cricket match with friends. <br/>
 `Date: 26 December 2024, Thursday`: Today I did not practice touch typing but practiced bowling. It wasn't a productive day, but overall it was a well-spent day. <br/>
 `Date: 27 December 2024, Friday`: Today, it was my examination, so I couldn't do any tough typing practice, but I did bowling practice. <br/>
-`Date: 28 December 2024, Saturday`: It's a time of weekend, so I planned to take a short break.
+`Date: 28 December 2024, Saturday`: It's a time of weekend, so I planned to take a short break. <br/>
+`Date: 29 December 2024, Saturday`: No work. <br/>
+
