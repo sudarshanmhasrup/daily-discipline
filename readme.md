@@ -11,4 +11,6 @@
 `Date: 30 December 2024, Monday`: Today I started working on the Share And Care project and started designing UI for the consumer app. <br/>
 `Date: 31 December 2024, Tuesday`: Today I finished creating the login flow design for the consumer app and also spent time setting up the Gradle project for the consumer app. <br/>
 `Date: 01 January2024, Wednesday`: It's a new year! Looking forward to completing my project that I started just two days ago. Happy New Year to whoever is reading this. Well, talking about today's work! I designed the landing page for the Share And Care consumer app. I also finished coding login pages. <br/>
+`Date: 02 January2024, Thursday`: Talking about today! I went one step further to improve the user experience of the consumer app by removing default transition animations and replacing these with custom animations. I also change the landing page background image for the customer app. <br/>
+
 
