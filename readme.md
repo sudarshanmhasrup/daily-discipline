@@ -10,3 +10,4 @@
 - Week 2: <br />
 `Date: 30 December 2024, Saturday`: Today I started working on the Share And Care project and started designing UI for the consumer app. <br/>
 `Date: 31 December 2024, Sunday`: Today I finished creating the login flow design for the consumer app and also spent time setting up the Gradle project for the consumer app. <br/>
+`Date: 01 January2024, Monday`: It's a new year! Looking forward to completing my project that I started just two days ago. Happy New Year to whoever is reading this. Well, talking about today's work! I designed the landing page for the Share And Care consumer app. I also finished coding login pages. <br/>
