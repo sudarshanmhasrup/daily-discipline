@@ -9,4 +9,4 @@
 `Date: 29 December 2024, Saturday`: No work. <br/>
 - Week 2: <br />
 `Date: 30 December 2024, Saturday`: Today I started working on the Share And Care project and started designing UI for the consumer app. <br/>
-`Date: 31 December 2024, Saturday`: Today I finished creating the login flow design for the consumer app and also spent time setting up the Gradle project for the consumer app. <br/>
+`Date: 31 December 2024, Sunday`: Today I finished creating the login flow design for the consumer app and also spent time setting up the Gradle project for the consumer app. <br/>
